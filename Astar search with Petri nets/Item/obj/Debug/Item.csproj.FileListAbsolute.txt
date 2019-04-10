@@ -1,0 +1,54 @@
+D:\Projects\Item\Item\bin\Debug\Item.exe.config
+D:\Projects\Item\Item\obj\Debug\Item.csprojResolveAssemblyReference.cache
+D:\Projects\Item\Item\bin\Debug\Item.exe
+D:\Projects\Item\Item\bin\Debug\Item.pdb
+D:\Projects\Item\Item\obj\Debug\Item.exe
+D:\Projects\Item\Item\obj\Debug\Item.pdb
+C:\Users\me\Documents\Visual Studio 2013\Projects\Item\Item\bin\Debug\Item.exe.config
+C:\Users\me\Documents\Visual Studio 2013\Projects\Item\Item\obj\Debug\Item.exe
+C:\Users\me\Documents\Visual Studio 2013\Projects\Item\Item\obj\Debug\Item.pdb
+C:\Users\me\Documents\Visual Studio 2013\Projects\Item\Item\bin\Debug\Item.exe
+C:\Users\me\Documents\Visual Studio 2013\Projects\Item\Item\bin\Debug\Item.pdb
+C:\Users\me\Documents\Visual Studio 2013\Projects\Item\Item\obj\Debug\Item.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\Item\Item\bin\Debug\Item.exe.config
+C:\Users\me\Desktop\Item\Item\obj\Debug\Item.exe
+C:\Users\me\Desktop\Item\Item\obj\Debug\Item.pdb
+C:\Users\me\Desktop\Item\Item\bin\Debug\Item.exe
+C:\Users\me\Desktop\Item\Item\bin\Debug\Item.pdb
+C:\Users\me\Desktop\Item\Item\obj\Debug\Item.csprojResolveAssemblyReference.cache
+C:\Users\zhaoz\Desktop\A Star\Item-20181023\Item\bin\Debug\Item.exe.config
+C:\Users\zhaoz\Desktop\A Star\Item-20181023\Item\obj\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\Item-20181023\Item\obj\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\Item-20181023\Item\bin\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\Item-20181023\Item\bin\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\Item-20181023\Item\obj\Debug\Item.csprojResolveAssemblyReference.cache
+C:\Users\zhaoz\Desktop\A Star\Item-20181112\Item\bin\Debug\Item.exe.config
+C:\Users\zhaoz\Desktop\A Star\Item-20181112\Item\obj\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\Item-20181112\Item\obj\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\Item-20181112\Item\bin\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\Item-20181112\Item\bin\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\Item-20181112\Item\obj\Debug\Item.csprojResolveAssemblyReference.cache
+C:\Users\zhaoz\Desktop\A Star\Item-20181225\Item\bin\Debug\Item.exe.config
+C:\Users\zhaoz\Desktop\A Star\Item-20181225\Item\obj\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\Item-20181225\Item\obj\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\Item-20181225\Item\bin\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\Item-20181225\Item\bin\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\Item-20181225\Item\obj\Debug\Item.csprojResolveAssemblyReference.cache
+C:\Users\zhaoz\Desktop\A Star\Item-2019.1.15\Item\bin\Debug\Item.exe.config
+C:\Users\zhaoz\Desktop\A Star\Item-2019.1.15\Item\obj\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\Item-2019.1.15\Item\obj\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\Item-2019.1.15\Item\bin\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\Item-2019.1.15\Item\bin\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\Item-2019.1.15\Item\obj\Debug\Item.csprojResolveAssemblyReference.cache
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Item-2019.1.15\Item\bin\Debug\Item.exe.config
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Item-2019.1.15\Item\obj\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Item-2019.1.15\Item\obj\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Item-2019.1.15\Item\bin\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Item-2019.1.15\Item\bin\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Item-2019.1.15\Item\obj\Debug\Item.csprojResolveAssemblyReference.cache
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Astar search with Petri nets\Item\bin\Debug\Item.exe.config
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Astar search with Petri nets\Item\obj\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Astar search with Petri nets\Item\obj\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Astar search with Petri nets\Item\bin\Debug\Item.exe
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Astar search with Petri nets\Item\bin\Debug\Item.pdb
+C:\Users\zhaoz\Desktop\A Star\带R的AStar程序\Astar search with Petri nets\Item\obj\Debug\Item.csprojResolveAssemblyReference.cache
