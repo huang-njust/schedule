@@ -4,7 +4,8 @@ This program is to search a scheduling path from the initial state to a given go
 
 It is written in C#.
 
-References:
+The related papers are:
+
 [1] Huang, B., Yu Sun, & YaMin Sun (2008). ‘Scheduling of flexible manufacturing systems based on Petri nets and hybrid heuristic search’. Int. J. Prod. Res. 46(16), 4553–4565.
 
 [2] Huang, B., Yu Sun, YaMin Sun, & ChunXia Zhao (2010). ‘A hybrid heuristic search algorithm for scheduling FMS based on Petri net model’. Int. J. Adv. Manuf. Tech. 48(9-12), 925–933.
