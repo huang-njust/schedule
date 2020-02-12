@@ -2,7 +2,7 @@
 
 This program is to search a scheduling path from an initial state to a given goal state of a place-timed Petri net of RASs by using A* search and its variants. 
 
-It is written in C#.
+It is written by using C#.
 
 The related papers are:
 
