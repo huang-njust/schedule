@@ -1,6 +1,6 @@
 # A* search algorithm within reachability graphs
 
-This program is to search a scheduling path from the initial state to a given goal marking of a P-timed Petri net of RASs by using A* search and its variants. 
+This program is to search a scheduling path from an initial state to a given goal state of a place-timed Petri net of RASs by using A* search and its variants. 
 
 It is written in C#.
 
